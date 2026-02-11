@@ -29,15 +29,22 @@ and **edge-to-backend coordination** for a non-intrusive safety system.
 
 ## Scope
 This is **not a production system**.  
-It is a **design reference** for architecture, logic flow, and decision models.
+It is a **design reference** for architecture, logic flow, and decision models.Status
+Conceptual / Architectural reference.
 
+## Contact
 "If you like what I build and want to fuel the system… or just fuel my caffeine. ☕ No obligations. Only respect for code & curiosity.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)  
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)  
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
 
+©Founder: MIKA 
 
-## Status
-Conceptual / Architectural reference.
+•  Email:gsfvapps@gmail.com 
+
+•  GitHub:https://github.com/GSF-001  
+
+There is no roadmap.  
+Only iterations.🪙
 
