@@ -43,7 +43,7 @@ Conceptual / Architectural reference.
 
 ![image](https://github.com/GSF-001/edge-safety-system/blob/360a3b4aff4da9e42c6430d723537295c4a0eddc/file_00000000fa0c72069accd6a331011001-removebg-preview.png)
                     
-       by ©Founder: MIKAthosi
+       by ©Founder: Mikatoshi 
 
 •  Email:gsfvapps@gmail.com 
 
