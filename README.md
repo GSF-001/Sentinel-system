@@ -28,6 +28,9 @@ and **edge-to-backend coordination** for a non-intrusive safety system.
 - `diagrams/`    — Sequence & flow visualizations
 
 ## Scope
+
+![image](https://github.com/GSF-001/edge-safety-system/blob/adfa25cd8ea4d6c610b68a64b97710631bd7b443/istockphoto-1193307437-612x612.jpg)
+
 This is **not a production system**.  
 It is a **design reference** for architecture, logic flow, and decision models.Status
 Conceptual / Architectural reference.
