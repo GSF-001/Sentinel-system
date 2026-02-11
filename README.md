@@ -1,6 +1,14 @@
 # 🧑🏻‍⚕️Personal Safety Architecture
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
+🌐 Connect with Me
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pN6gD6dR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MIKA)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mikamorpi)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsfvapps@gmail.com)
+
+---
 A lightweight, privacy-first system design for personal incident detection  
 and controlled emergency escalation.
 
@@ -23,5 +31,13 @@ and **edge-to-backend coordination** for a non-intrusive safety system.
 This is **not a production system**.  
 It is a **design reference** for architecture, logic flow, and decision models.
 
+"If you like what I build and want to fuel the system… or just fuel my caffeine. ☕ No obligations. Only respect for code & curiosity.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)  
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)  
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
+
+
 ## Status
 Conceptual / Architectural reference.
+
