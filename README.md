@@ -7,6 +7,11 @@ This repository explores how **edge-first telemetry**, **tiered escalation**, an
 > No diagnosis. No hype. Just signals, rules, and response.
 
 ---
+## Repository Structure
+- /docs        → system documentation
+- /algorithms  → core logic appendix
+- /pseudocode  → reference flows
+- /diagrams    → visual aids
 
 ## 🎯 Problem
 
