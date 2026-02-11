@@ -1,5 +1,5 @@
 ## 💫 Personal Safety Architecture
-![image](
+![image](https://github.com/GSF-001/edge-safety-system/blob/e43e845739eb0a44c8e70643915739342370791e/different-style.gif)
 🌐 Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pN6gD6dR)
