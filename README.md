@@ -20,7 +20,7 @@ and **edge-to-backend coordination** for a non-intrusive safety system.
 - Minimal data exposure
 - Deterministic, explainable logic
 
-## Repository Layout
+## Repository Layout🗂️
 - `docs/`        — System documentation & design rationale
 - `algorithms/`  — Core detection & escalation logic
 - `pseudocode/`  — Readable reference implementations
@@ -34,7 +34,7 @@ This is **not a production system**.
 It is a **design reference** for architecture, logic flow, and decision models.Status
 Conceptual / Architectural reference.
 
-## Contact
+## 📫Contact
 "If you like what I build and want to fuel the system… or just fuel my caffeine. ☕ No obligations. Only respect for code & curiosity.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)  
